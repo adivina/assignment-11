@@ -1,0 +1,5 @@
+Up until now we have been using JavaScript in the environment of the browser. 
+Node.js is a special program, a special environment, in which we can run JavaScript code without a browser.
+We could use Node.js to set up a virtual server on our computer to test our JavaScript programs.
+We could run HTTP servers and make HTTP requests. 
+On top of server functionality, Node.js along with NPM repository adds additional functionality to JavaScript via modules.
